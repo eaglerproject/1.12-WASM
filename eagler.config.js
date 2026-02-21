@@ -15,7 +15,7 @@
                     logInvalidCerts: true,
                     crashOnUncaughtExceptions: false,
                     servers: [
-							{ addr: "wss://mythic.lat/", name: "mythical network | solo central" },
+							{ addr: "wss://217.216.66.197:25565", name: "mythical network | solo central" },
 							{ addr: "wss://xena.wtf", name: "xena | frogie's arcade" },
 							{ addr: "wss://arch.mc", name: "ArchMC" },
 							{ addr: "wss://ethereal.mov", name: "ethereal | selenite" },                    ],
